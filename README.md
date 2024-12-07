@@ -1,6 +1,6 @@
 The objective of this notebook is to classify from raw sound waves to six emotions: happy, sad, neutral, fear, angry, and disgust.
 
-->Gathering data
+Gathering data
 ->Quick EDA
 ->Preprocess
 ->Extract features
